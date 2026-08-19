@@ -89,7 +89,7 @@ pip install Flask pandas plotly
 Rulează aplicația Flask:
 
 ```bash
-python app.py
+python proiectfinal.py
 ```
 
 După pornire, aplicația poate fi accesată în browser la:
